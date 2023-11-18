@@ -14,10 +14,9 @@
       "type": "image/png"
     }
   ],
-  "start_url": "Cafe Application",
+  "start_url": "https://fikrio.github.io/CafeApplications/",
   "display": "standalone",
   "theme_color": "#1F3641",
   "background_color": "#ffffff",
   "prefer_related_applications": false
-  https://fikrio.github.io/CafeApplications/
-}
+ }
